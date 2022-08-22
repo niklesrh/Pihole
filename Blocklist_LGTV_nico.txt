@@ -19,6 +19,3 @@
 0.0.0.0 lgtvsdp.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 rdx2.lgtvsdp.com
-
-
-
