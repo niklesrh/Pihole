@@ -18,13 +18,13 @@
 0.0.0.0 lgtvonline.lge.com
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
 0.0.0.0 ad.lgsmartad.com
-0.0.0.0 ibs.lgappstv.com
+# 0.0.0.0 ibs.lgappstv.com
 0.0.0.0 lgtvsdp.com
 0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 es.ibs.lgappstv.com
+# 0.0.0.0 es.ibs.lgappstv.com
 0.0.0.0 es.lgtvsdp.com
-0.0.0.0 ibis.lgappstv.com
-0.0.0.0 ad.lgappstv.com
+# 0.0.0.0 ibis.lgappstv.com
+# 0.0.0.0 ad.lgappstv.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 rdx2.lgtvsdp.com
 0.0.0.0 smartshare.lgtvsdp.com
