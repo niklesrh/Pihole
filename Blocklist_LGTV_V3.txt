@@ -37,7 +37,7 @@
 0.0.0.0 cdpsvc.lgtvcommon.com
 0.0.0.0 cdpbeacon.lgtvcommon.com
 0.0.0.0 service.lgtvcommon.es
-vservice.lgtvcommon.com
+0.0.0.0 vservice.lgtvcommon.com
 0.0.0.0 lgtvonline.lge.com
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
 0.0.0.0 ad.lgsmartad.com
