@@ -22,7 +22,7 @@
 0.0.0.0 lgtvsdp.com
 0.0.0.0 aic-ngfts.lge.com
 # 0.0.0.0 es.ibs.lgappstv.com
-# 0.0.0.0 es.lgtvsdp.com
+# 0.0.0.0 es.lgtvsdp.com   #Este bloquea la appstore de Webos
 # 0.0.0.0 ibis.lgappstv.com
 # 0.0.0.0 ad.lgappstv.com
 0.0.0.0 info.lgsmartad.com
