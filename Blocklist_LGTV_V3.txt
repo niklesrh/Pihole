@@ -20,6 +20,9 @@
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 rdx2.lgtvsdp.com
 0.0.0.0 discovery.meethue.com
+0.0.0.0 eic.cdpsvc.lgtvcommon.com
+0.0.0.0 es.ibs.lgappstv.com
+0.0.0.0 eic.recommend.lgtvcommon.com
 
 0.0.0.0 aic.recommend.lgtvcommon.com
 0.0.0.0 images.redbox.com
