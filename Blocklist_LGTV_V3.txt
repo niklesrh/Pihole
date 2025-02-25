@@ -68,3 +68,6 @@
 0.0.0.0 eic.api.lgtviot.com
 0.0.0.0 eic.wiseconfig.lgtvcommon.com
 0.0.0.0 eic-ngfts.lge.com
+0.0.0.0 eic.lgtviot.com
+0.0.0.0 es.lgeapi.com
+
