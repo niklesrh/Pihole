@@ -62,3 +62,9 @@
 
 
 0.0.0.0 es.rdx2.nextlgsdp.com
+0.0.0.0 es.ibs.nextlgsdp.com
+0.0.0.0 ngfts.nextlgsdp.com
+0.0.0.0 es.nextlgsdp.com
+0.0.0.0 eic.api.lgtviot.com
+0.0.0.0 eic.wiseconfig.lgtvcommon.com
+0.0.0.0 eic-ngfts.lge.com
