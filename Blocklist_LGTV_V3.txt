@@ -70,4 +70,72 @@
 0.0.0.0 eic-ngfts.lge.com
 0.0.0.0 eic.lgtviot.com
 0.0.0.0 es.lgeapi.com
+####################
+127.0.0.1 us.rdx2.lgtvsdp.com
+127.0.0.1 us.info.lgsmartad.com
+127.0.0.1 us.ibs.lgappstv.com
+# 127.0.0.1 us.lgtvsdp.com
+127.0.0.1 ad.lgappstv.com
+127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 ibis.lgappstv.com
+
+# added after fork
+# from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
+127.0.0.1 us.ad.lgsmartad.com
+127.0.0.1 lgad.cjpowercast.com.edgesuite.net
+127.0.0.1 ngfts.lge.com
+127.0.0.1 yumenetworks.com
+127.0.0.1 smartclip.net
+127.0.0.1 smartclip.com
+
+# non us
+127.0.0.1 rdx2.lgtvsdp.com
+127.0.0.1 info.lgsmartad.com
+127.0.0.1 ibs.lgappstv.com
+# 127.0.0.1 lgtvsdp.com
+127.0.0.1 lgappstv.com
+127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 lgappstv.com
+
+# full block
+127.0.0.1 de.info.lgsmartad.com
+127.0.0.1 de.ibs.lgappstv.com
+127.0.0.1 de.ad.lgsmartad.com
+127.0.0.1 eu.info.lgsmartad.com
+127.0.0.1 eu.ibs.lgappstv.com
+127.0.0.1 eu.ad.lgsmartad.com
+#127.0.0.1 app-lgwebos.pluto.tv
+#127.0.0.1 de.emp.lgsmartplatform.com
+#127.0.0.1 de.ibs.lgappstv.com
+#127.0.0.1 de.lgeapi.com
+#127.0.0.1 de.lgtvsdp.com
+#127.0.0.1 de.rdx2.lgtvsdp.com
+#127.0.0.1 eic-common.lgthinq.com
+#127.0.0.1 eic-iotservice.lgthinq.com
+#127.0.0.1 eic-service.lgthinq.com
+#127.0.0.1 eic-ngfts.lge.com
+#127.0.0.1 eic-svc-lgthinq-com.aws-thinq-prd.net
+127.0.0.1 eic.cdpsvc.lgtvcommon.com
+127.0.0.1 eic.cdpbeacon.lgtvcommon.com
+#127.0.0.1 eic.cdplauncher.lgtvcommon.com
+127.0.0.1 eic.homeprv.lgtvcommon.com
+#127.0.0.1 eic.lgtviot.com
+127.0.0.1 eic.nudge.lgtvcommon.com
+127.0.0.1 eic.rdl.lgtvcommon.com
+127.0.0.1 eic.recommend.lgtvcommon.com
+#127.0.0.1 eic.service.lgtvcommon.com
+#127.0.0.1 gb-lgeapi-com.esi-prd.net
+#127.0.0.1 gb.lgeapi.com
+#127.0.0.1 lgtvonline.lge.com
+#127.0.0.1 lg-channelplus-de-beacons.xumo.com
+#127.0.0.1 lg-channelplus-de-mds.xumo.com
+#127.0.0.1 lg-channelplus-eu-beacons.xumo.com
+#127.0.0.1 lg-channelplus-eu-mds.xumo.com
+#127.0.0.1 kr-op-v2.lgthinqhome.com
+#127.0.0.1 ngfts.lge.com
+#127.0.0.1 noti.lgthinq.com
+#127.0.0.1 objectcontent.lgthinq.com
+
+# Update server
+# 127.0.0.1 snu.lge.com
 
