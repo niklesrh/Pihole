@@ -1,0 +1,59 @@
+# Netflix Tracking Blocklist for LG WebOS 6.5 OLED TV
+
+## Netflix Analytics and Tracking Domains
+beacon.netflix.com
+customerevents.netflix.com
+ichnaea.netflix.com
+ichnaea-web.netflix.com
+nmtracking.netflix.com
+presentationtracking.netflix.com
+tracker.netflix.com
+android-dtv-us.netflix.com
+
+## Netflix Advertisement Services
+ads.netflix.com
+ads-stage.netflix.com
+beacon.netflix.net
+
+## Netflix Telemetry
+nrdp.nccp.netflix.com
+nrdp-ipv4.nccp.netflix.com
+nrdp.prod.ftl.netflix.com
+customerevents.netflix.com
+nrdp.prod.ce-geo.netflix.com
+android-dtv-metrics.netflix.com
+geo.prod.ftl.netflix.com
+
+## Netflix Device Metrics
+metricsdata.netflix.com
+nrdp-metrics.netflix.com
+devicesecurity.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+## Netflix Partner Integration
+partnerapi.netflix.com
+api-global.netflix.com
+lg-dtv-apps.netflix.com
+lg-global.netflix.com
+webos-dtv.netflix.com
+
+## LG-Specific Netflix Integration
+# Do NOT block these or Netflix will stop working
+# netflix.com
+# api.netflix.com
+# moviemenu.netflix.com
+# www.netflix.com
+# signup.netflix.com
+# uiboot.netflix.com
+# assets.nflxext.com
+# codex.nflxext.com
+# cdn*.nflximg.net
+# secure.nflximg.net
+# ipv4-uiboot.netflix.com
+# prod.nflximg.net
+# ipv4-api-global.netflix.com
+# api-prod-global.netflix.com
+# cbp-us.nccp.netflix.com
+# www.assets.nflxext.com
+# fast.com
