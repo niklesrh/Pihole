@@ -71,71 +71,143 @@
 0.0.0.0 eic.lgtviot.com
 0.0.0.0 es.lgeapi.com
 ####################
-127.0.0.1 us.rdx2.lgtvsdp.com
-127.0.0.1 us.info.lgsmartad.com
-127.0.0.1 us.ibs.lgappstv.com
-# 127.0.0.1 us.lgtvsdp.com
-127.0.0.1 ad.lgappstv.com
-127.0.0.1 smartshare.lgtvsdp.com
-127.0.0.1 ibis.lgappstv.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+# 0.0.0.0 us.lgtvsdp.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 ibis.lgappstv.com
 
 # added after fork
 # from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
-127.0.0.1 us.ad.lgsmartad.com
-127.0.0.1 lgad.cjpowercast.com.edgesuite.net
-127.0.0.1 ngfts.lge.com
-127.0.0.1 yumenetworks.com
-127.0.0.1 smartclip.net
-127.0.0.1 smartclip.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
 
 # non us
-127.0.0.1 rdx2.lgtvsdp.com
-127.0.0.1 info.lgsmartad.com
-127.0.0.1 ibs.lgappstv.com
-# 127.0.0.1 lgtvsdp.com
-127.0.0.1 lgappstv.com
-127.0.0.1 smartshare.lgtvsdp.com
-127.0.0.1 lgappstv.com
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 ibs.lgappstv.com
+0.0.0.0 lgtvsdp.com
+0.0.0.0 lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 lgappstv.com
 
 # full block
-127.0.0.1 de.info.lgsmartad.com
-127.0.0.1 de.ibs.lgappstv.com
-127.0.0.1 de.ad.lgsmartad.com
-127.0.0.1 eu.info.lgsmartad.com
-127.0.0.1 eu.ibs.lgappstv.com
-127.0.0.1 eu.ad.lgsmartad.com
-#127.0.0.1 app-lgwebos.pluto.tv
-#127.0.0.1 de.emp.lgsmartplatform.com
-#127.0.0.1 de.ibs.lgappstv.com
-#127.0.0.1 de.lgeapi.com
-#127.0.0.1 de.lgtvsdp.com
-#127.0.0.1 de.rdx2.lgtvsdp.com
-#127.0.0.1 eic-common.lgthinq.com
-#127.0.0.1 eic-iotservice.lgthinq.com
-#127.0.0.1 eic-service.lgthinq.com
-#127.0.0.1 eic-ngfts.lge.com
-#127.0.0.1 eic-svc-lgthinq-com.aws-thinq-prd.net
-127.0.0.1 eic.cdpsvc.lgtvcommon.com
-127.0.0.1 eic.cdpbeacon.lgtvcommon.com
-#127.0.0.1 eic.cdplauncher.lgtvcommon.com
-127.0.0.1 eic.homeprv.lgtvcommon.com
-#127.0.0.1 eic.lgtviot.com
-127.0.0.1 eic.nudge.lgtvcommon.com
-127.0.0.1 eic.rdl.lgtvcommon.com
-127.0.0.1 eic.recommend.lgtvcommon.com
-#127.0.0.1 eic.service.lgtvcommon.com
-#127.0.0.1 gb-lgeapi-com.esi-prd.net
-#127.0.0.1 gb.lgeapi.com
-#127.0.0.1 lgtvonline.lge.com
-#127.0.0.1 lg-channelplus-de-beacons.xumo.com
-#127.0.0.1 lg-channelplus-de-mds.xumo.com
-#127.0.0.1 lg-channelplus-eu-beacons.xumo.com
-#127.0.0.1 lg-channelplus-eu-mds.xumo.com
-#127.0.0.1 kr-op-v2.lgthinqhome.com
-#127.0.0.1 ngfts.lge.com
-#127.0.0.1 noti.lgthinq.com
-#127.0.0.1 objectcontent.lgthinq.com
+0.0.0.0 de.info.lgsmartad.com
+0.0.0.0 de.ibs.lgappstv.com
+0.0.0.0 de.ad.lgsmartad.com
+0.0.0.0 eu.info.lgsmartad.com
+0.0.0.0 eu.ibs.lgappstv.com
+0.0.0.0 eu.ad.lgsmartad.com
+0.0.0.0 app-lgwebos.pluto.tv
+0.0.0.0 de.emp.lgsmartplatform.com
+0.0.0.0 de.ibs.lgappstv.com
+0.0.0.0 de.lgeapi.com
+0.0.0.0 de.lgtvsdp.com
+0.0.0.0 de.rdx2.lgtvsdp.com
+0.0.0.0 eic-common.lgthinq.com
+0.0.0.0 eic-iotservice.lgthinq.com
+0.0.0.0 eic-service.lgthinq.com
+0.0.0.0 eic-ngfts.lge.com
+0.0.0.0 eic-svc-lgthinq-com.aws-thinq-prd.net
+0.0.0.0 eic.cdpsvc.lgtvcommon.com
+0.0.0.0 eic.cdpbeacon.lgtvcommon.com
+0.0.0.0 eic.cdplauncher.lgtvcommon.com
+0.0.0.0 eic.homeprv.lgtvcommon.com
+0.0.0.0 eic.lgtviot.com
+0.0.0.0 eic.nudge.lgtvcommon.com
+0.0.0.0 eic.rdl.lgtvcommon.com
+0.0.0.0 eic.recommend.lgtvcommon.com
+0.0.0.0 eic.service.lgtvcommon.com
+0.0.0.0 gb-lgeapi-com.esi-prd.net
+0.0.0.0 gb.lgeapi.com
+0.0.0.0 lgtvonline.lge.com
+0.0.0.0 lg-channelplus-de-beacons.xumo.com
+0.0.0.0 lg-channelplus-de-mds.xumo.com
+0.0.0.0 lg-channelplus-eu-beacons.xumo.com
+0.0.0.0 lg-channelplus-eu-mds.xumo.com
+0.0.0.0 kr-op-v2.lgthinqhome.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 noti.lgthinq.com
+0.0.0.0 objectcontent.lgthinq.com
 
 # Update server
-# 127.0.0.1 snu.lge.com
+# 0.0.0.0 snu.lge.com
 
+ad.lgappstv.com
+ibis.lgappstv.com
+info.lgsmartad.com
+lgtvsdp.com
+ngfts.lge.com
+rdx2.lgtvsdp.com
+smartshare.lgtvsdp.com
+lgappstv.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+
+# Community Contributions
+lgad.cjpowercast.com.edgesuite.net
+yumenetworks.com
+smartclip.net
+smartclip.com
+
+# Non-US Entries
+rdx2.lgtvsdp.com
+info.lgsmartad.com
+ibs.lgappstv.com
+lgtvsdp.com
+lgappstv.com
+smartshare.lgtvsdp.com
+
+# Full Block for Europe and Other Regions
+de.ad.lgsmartad.com
+de.emp.lgsmartplatform.com
+de.ibs.lgappstv.com
+de.info.lgsmartad.com
+de.lgeapi.com
+de.lgtvsdp.com
+de.rdx2.lgtvsdp.com
+eu.ad.lgsmartad.com
+eu.ibs.lgappstv.com
+eu.info.lgsmartad.com
+app-lgwebos.pluto.tv
+it.lgtvsdp.com
+it.lgeapi.com
+it.emp.lgsmartplatform.com
+
+# LG ThinQ Services
+eic.common.lgthinq.com
+eic.iotservice.lgthinq.com
+eic.service.lgthinq.com
+eic.ngfts.lge.com
+eic.svc-lgthinq-com.aws-thinq-prd.net
+eic.cdpsvc.lgtvcommon.com
+eic.cdpbeacon.lgtvcommon.com
+eic.cdplauncher.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+eic.lgtviot.com
+eic.nudge.lgtvcommon.com
+eic.rdl.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com
+gb-lgeapi-com.esi-prd.net
+gb.lgeapi.com
+lgtvonline.lge.com
+lg-channelplus-de-beacons.xumo.com
+lg-channelplus-de-mds.xumo.com
+lg-channelplus-eu-beacons.xumo.com
+lg-channelplus-eu-mds.xumo.com
+kr-op-v2.lgthinqhome.com
+ngfts.lge.com
+noti.lgthinq.com
+objectcontent.lgthinq.com
+
+# Update Server Block
+snu.lge.com
