@@ -28,15 +28,15 @@ geo.prod.ftl.netflix.com
 metricsdata.netflix.com
 nrdp-metrics.netflix.com
 devicesecurity.netflix.com
-appboot.netflix.com
+#appboot.netflix.com
 secure.netflix.com
 
 ## Netflix Partner Integration
-partnerapi.netflix.com
-api-global.netflix.com
-lg-dtv-apps.netflix.com
+#partnerapi.netflix.com
+#api-global.netflix.com
+#lg-dtv-apps.netflix.com
 lg-global.netflix.com
-webos-dtv.netflix.com
+#webos-dtv.netflix.com
 
 ## LG-Specific Netflix Integration
 # Do NOT block these or Netflix will stop working
